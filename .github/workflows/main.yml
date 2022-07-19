@@ -43,4 +43,4 @@ jobs:
       - name: Move jar
         run: bash ./grasscutter/jars/action.sh
       - name: Git commit
-        run: git push -u origin main
+        run: bash -c "git add ./* && git commit -m $(TZ=Asia/Shanghai date) && git push -u origin main"
