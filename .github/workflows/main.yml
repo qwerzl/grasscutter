@@ -43,4 +43,4 @@ jobs:
       - name: Move jar
         run: bash ./grasscutter/jars/action.sh
       - name: Git commit
-        run: git push -u otigin main
+        run: git push -u origin main
