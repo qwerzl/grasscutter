@@ -1,19 +1,10 @@
 name: "Build"
+
 on:
   workflow_dispatch: ~
-  push:
-    paths:
-      - "**.java"
-    branches:
-      - "stable"
-      - "development"
-  pull_request:
-    paths:
-      - "**.java"
-    types:
-      - opened
-      - synchronize
-      - reopened
+  schedule:
+    - cron: '0 1 * * *'
+    
 jobs:
   Build-Server-Jar:
     runs-on: ubuntu-latest
