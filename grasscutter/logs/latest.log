@@ -35,3 +35,18 @@
 2022-07-19T20:28:06Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.8.0
 2022-07-19T20:28:06Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.2-dev-cff4be5
 2022-07-19T20:28:06Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-07-21T07:12:47Z <INFO:emu.grasscutter.tools.Tools> Invalid option. Will use EN(English) as fallback
+2022-07-21T07:12:47Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-07-21T07:12:53Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-07-21T07:12:56Z <INFO:emu.grasscutter.tools.ToolsWithLanguageOption> GM Handbook generated!
+2022-07-21T07:13:07Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-07-21T07:13:08Z <INFO:emu.grasscutter.Grasscutter> Game version: 2.8.0
+2022-07-21T07:13:08Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.2-dev-cff4be5
+2022-07-21T07:13:08Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-07-21T07:13:13Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-07-21T07:13:15Z <WARN:emu.grasscutter.server.http.HttpServer> [Dispatch] No SSL cert found! Falling back to HTTP server.
+2022-07-21T07:13:20Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started on port 443
+2022-07-21T07:13:20Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-07-21T07:13:20Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started on port 22102
+2022-07-21T07:13:20Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-07-21T07:13:30Z <INFO:emu.grasscutter.Grasscutter> Press Ctrl-C again to shutdown.
