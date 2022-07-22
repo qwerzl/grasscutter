@@ -1,3 +1,4 @@
+ls Grasscutter
 mv Grasscutter/grasscutter-*.jar grasscutter/jars/
 cd ./grasscutter
 rm ./grasscutter.jar
