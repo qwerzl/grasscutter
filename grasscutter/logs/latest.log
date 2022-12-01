@@ -1,0 +1,11 @@
+2022-12-01T19:54:58Z <INFO:emu.grasscutter.Grasscutter> config.json could not be found. Generating a default configuration ...
+2022-12-01T19:54:58Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-CN.json, falling back to: en-US.json
+2022-12-01T19:54:58Z <INFO:emu.grasscutter.data.DataLoader> Creating default './data/gacha/mappings.js' data
+2022-12-01T19:54:59Z <INFO:emu.grasscutter.utils.Language> Generating TextMaps cache
+2022-12-01T19:54:59Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-12-01T19:55:00Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-12-01T19:55:01Z <INFO:emu.grasscutter.tools.Tools> Mappings generated to ./data/gacha/mappings.js
+2022-12-01T19:55:01Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-12-01T19:55:01Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.2.0
+2022-12-01T19:55:01Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.4.4-dev-553e22ea
+2022-12-01T19:55:01Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!

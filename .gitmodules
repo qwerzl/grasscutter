@@ -1,4 +1,3 @@
 [submodule "Grasscutter_Resources"]
 	path = Grasscutter_Resources
-	url = https://github.com/Koko-boya/Grasscutter_Resources.git
-        branch = 2.8
+	url = https://git.crepe.moe/tamilpp25/Grasscutter_Resources.git
